@@ -30,12 +30,13 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)  Ik wou de user laten ontdekken waat het verhaarl begint in de bakker. Dus ik heb een kleine facade van een bakker gemaakt waarbij je de deur zou moeten induwen waarna je een belletje hoort rinkelen en er roze lichtjes gaan branden. Hierna gaat een servomotor twee figuurtjes doen bewegen wat de twee personages voorstellen. 
 
 ## Interaction
 
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 
+De deur induwen. Het licht geeft een sfeer en het belletje is er voor het herkennen van de plek. 
 
 
 
